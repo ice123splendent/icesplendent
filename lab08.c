@@ -1,6 +1,7 @@
 // EE231002 Lab08. Poker Hands
 // 109061101, 王柏涵
 // Date: 11/23/2020
+// haha i just modify this online
 
 #include <stdio.h>
 #include <stdlib.h>
